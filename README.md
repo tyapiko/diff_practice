@@ -4,3 +4,4 @@ git練習用
 working directory secound
 saihenkou third
 mergetool confkict fource
+rebaseよう
